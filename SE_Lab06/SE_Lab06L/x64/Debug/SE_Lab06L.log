@@ -1,0 +1,3 @@
+﻿  Dictionary.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(1582,5): error MSB6006: "Lib.exe" завершилась с кодом 1117.
+LINK : fatal error LNK1117: синтаксическая ошибка в параметре ""
